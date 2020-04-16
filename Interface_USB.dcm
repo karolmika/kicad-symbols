@@ -300,6 +300,12 @@ K USB USB-C PD Power Delivery PHY TCPC
 F http://www.onsemi.com/pub/Collateral/FUSB307B-D.PDF
 $ENDCMP
 #
+$CMP IP2716
+D IP2716 is a highly integrated, flexible high voltage charging protocol controller. It supports the most popular high voltage charging protocol, such as TYPE-C PD3.0, QC 3.0, MTK PE+1.1, DCP, BC1.2. The SOC could be a powerful protocol controller used in AC adapter, power-bank, car charger or other power charging solution
+K IP2716, PD, USBC, QC
+F http://www.szjuquan.com/upload_files/qb_sell_/pdf/IP2716.pdf
+$ENDCMP
+#
 $CMP MCP2200-E-SS
 D USB 2.0 to UART Protocol Converter with GPIO, Extended Temperature Range, SSOP-20
 K USB UART Converter
