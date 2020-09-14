@@ -132,6 +132,11 @@ K USB-Serial single channel bridge
 F http://www.cypress.com/file/129956/download
 $ENDCMP
 #
+$CMP CYPD3177-24LQXI
+D EZ-PD™ BCR is Cypress’ highly-integrated pre-programmed USB Type-C port controller targeting electronic devices that have legacy
+F https://www.cypress.com/file/460416/download
+$ENDCMP
+#
 $CMP FE1.1s
 D USB 2.0 High Speed 4-Port Hub Controller, SSOP-28
 K 4-Port, EEPROM, High Speed, Hub, USB2.0
